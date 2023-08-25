@@ -40,12 +40,12 @@ ul{
     color: red;
 }
 
-article{
+/*article{
     text-align: center;
     font-size: 25px;
     grid-auto-columns: auto;
 }
-
+*/
 
 .pageContent {
 display: grid;
