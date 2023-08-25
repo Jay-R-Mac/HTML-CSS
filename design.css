@@ -21,6 +21,10 @@ img {
    
 }
 
+h3{
+    font-size: 75px;
+    text-align: center;
+}   
 
 a{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -38,8 +42,10 @@ ul{
 
 article{
     text-align: center;
+    font-size: 25px;
     grid-auto-columns: auto;
 }
+
 
 .pageContent {
 display: grid;
