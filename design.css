@@ -1,0 +1,47 @@
+
+body {
+    background-color: khaki;
+    
+}
+
+nav {
+    background-color: whitesmoke;
+    display: flex;
+    color: black;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    
+}
+img {
+    border: 5px solid #555;
+    border-radius: 50% ;
+    
+   
+}
+
+
+a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+ul{
+    color: red;
+}
+
+article{
+    text-align: center;
+    grid-auto-columns: auto;
+}
+
+.pageContent {
+display: grid;
+grid-template-columns: 1fr 1fr;
+}
